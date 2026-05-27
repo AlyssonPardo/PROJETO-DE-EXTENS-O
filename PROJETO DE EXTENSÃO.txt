@@ -257,7 +257,7 @@
   </div>
 
   <footer>
-   Projeto de Extensão Faculdade Unicesumar CONECTA PET - ALYSSON PARDO
+    © 2026 PetFinder - Projeto de Extensão Faculade
   </footer>
 
   <script>
